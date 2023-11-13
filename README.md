@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: 13/11/2023
+- Class Date: 13/11/2023-new
 use ISO format
 - Facilitator: @TEACHER-HANDLE
 

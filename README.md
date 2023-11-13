@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: 13/11/2023-myconflict
-use ISO format
+
+- Class Date: 13/11/2023-mergedconflict
 - Facilitator: @TEACHER-HANDLE
 
 ## Class Resources
